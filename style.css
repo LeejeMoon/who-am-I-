@@ -1,0 +1,60 @@
+<style>
+
+    font-family: 'Gothic A1', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+
+    font-family: ivyjournal,sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    
+    .grid_ratio {
+    position: relative;
+    }
+
+    .body {
+    background-color: #000;
+    position: fixed;
+    top: 0%;
+    }
+    .dot {
+          border: 5px solid black;
+          margin: 5rem;
+          
+          padding: 12px 12px;
+          width:100px; height: 100px;
+          line-height: 100px;
+          background-color: whitesmoke;
+          border-radius: 50%;    
+          display: inline-block
+          font-size: 10px;
+          color: #000;
+          text-align: center;
+        }
+        
+    img{
+    border: 1px solid black;
+    margin: 5rem;
+    padding:
+    }
+
+    img{
+        position: relative;
+            width: 30rem;
+        left: 20%
+    }
+
+    .box {
+      width: 485px; height: 700px;
+      border: 1px solid #333;
+      box-shadow: 8px 8px 5px #444;
+      padding: 8px 12px;
+      background-color: whitesmoke;
+    }
+    .glow {
+          font-size: 30px;
+          color: whitesmoke;
+          text-align: center;
+          animation: glow 1s ease-in-out infinite alternate;
+        }
+
+</style>
